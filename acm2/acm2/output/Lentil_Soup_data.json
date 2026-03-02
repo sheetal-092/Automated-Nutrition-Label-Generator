@@ -1,0 +1,35 @@
+{
+  "product_name": "Lentil Soup",
+  "generated_at": "2026-02-27T13:36:48.457232",
+  "nutrition_per_100g": {
+    "energy_kcal": 179.02702702702703,
+    "protein_g": 8.198069498069499,
+    "total_fat_g": 4.500772200772201,
+    "saturated_fat_g": 0.5326254826254827,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 28.204247104247113,
+    "total_sugars_g": 6.266602316602317,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 8.131467181467182,
+    "sodium_mg": 19.220077220077222,
+    "cholesterol_mg": 0.0
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 231.84,
+    "protein_g": 10.6165,
+    "total_fat_g": 5.8285,
+    "saturated_fat_g": 0.6897500000000001,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 36.52450000000001,
+    "total_sugars_g": 8.11525,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 10.530249999999999,
+    "sodium_mg": 24.89,
+    "cholesterol_mg": 0.0
+  },
+  "serving_size": "130g",
+  "servings_per_package": 4,
+  "ingredients": "Chickpeas, Tomato, Onion, Carrot, Turmeric Powder, Red Chili Powder, Olive Oil"
+}

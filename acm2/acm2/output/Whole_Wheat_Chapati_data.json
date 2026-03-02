@@ -1,0 +1,35 @@
+{
+  "product_name": "Whole Wheat Chapati",
+  "generated_at": "2026-02-27T17:33:53.483258",
+  "nutrition_per_100g": {
+    "energy_kcal": 355.25641025641033,
+    "protein_g": 12.692307692307692,
+    "total_fat_g": 4.83974358974359,
+    "saturated_fat_g": 0.6185897435897436,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 69.23076923076924,
+    "total_sugars_g": 0.3846153846153847,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 11.73076923076923,
+    "sodium_mg": 250.3717948717949,
+    "cholesterol_mg": 0.0
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 184.73333333333335,
+    "protein_g": 6.599999999999999,
+    "total_fat_g": 2.5166666666666666,
+    "saturated_fat_g": 0.32166666666666666,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 36.0,
+    "total_sugars_g": 0.20000000000000004,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 6.099999999999999,
+    "sodium_mg": 130.19333333333333,
+    "cholesterol_mg": 0.0
+  },
+  "serving_size": "52g",
+  "servings_per_package": 6,
+  "ingredients": "Whole Wheat Flour, Salt, Sunflower Oil"
+}

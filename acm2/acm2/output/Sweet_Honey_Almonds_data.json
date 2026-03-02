@@ -1,0 +1,39 @@
+{
+  "product_name": "Sweet Honey Almonds",
+  "generated_at": "2026-02-27T13:36:48.505633",
+  "nutrition_per_100g": {
+    "energy_kcal": 465.6923076923077,
+    "protein_g": 12.36153846153846,
+    "total_fat_g": 28.792307692307695,
+    "saturated_fat_g": 2.192307692307692,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 47.92307692307693,
+    "total_sugars_g": 37.88461538461538,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 7.288461538461538,
+    "sodium_mg": 3.2692307692307696,
+    "cholesterol_mg": 0.0
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 242.16,
+    "protein_g": 6.427999999999999,
+    "total_fat_g": 14.972,
+    "saturated_fat_g": 1.14,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 24.92,
+    "total_sugars_g": 19.699999999999996,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 3.79,
+    "sodium_mg": 1.7,
+    "cholesterol_mg": 0.0
+  },
+  "serving_size": "52g",
+  "servings_per_package": 5,
+  "ingredients": "Almonds, Honey, Jaggery",
+  "compliance_warnings": [
+    "High fat content (28.8g per 100g). Consider adding 'High in Fat' declaration.",
+    "High sugar content (37.9g per 100g). Consider adding 'High in Sugar' declaration."
+  ]
+}

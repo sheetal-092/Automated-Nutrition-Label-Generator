@@ -1,0 +1,40 @@
+{
+  "product_name": "Cheese and Vegetable Toast",
+  "generated_at": "2026-02-27T13:36:48.412617",
+  "nutrition_per_100g": {
+    "energy_kcal": 252.36,
+    "protein_g": 8.963999999999999,
+    "total_fat_g": 14.440000000000001,
+    "saturated_fat_g": 8.612,
+    "trans_fat_g": 0.484,
+    "carbohydrates_g": 21.764000000000003,
+    "total_sugars_g": 3.1319999999999997,
+    "added_sugars_g": 1.2000000000000002,
+    "dietary_fiber_g": 1.5240000000000002,
+    "sodium_mg": 322.96000000000004,
+    "cholesterol_mg": 38.2
+  },
+  "fssai_compliant": false,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 315.45,
+    "protein_g": 11.204999999999998,
+    "total_fat_g": 18.05,
+    "saturated_fat_g": 10.765,
+    "trans_fat_g": 0.605,
+    "carbohydrates_g": 27.205000000000002,
+    "total_sugars_g": 3.9149999999999996,
+    "added_sugars_g": 1.5,
+    "dietary_fiber_g": 1.9050000000000002,
+    "sodium_mg": 403.70000000000005,
+    "cholesterol_mg": 47.75
+  },
+  "serving_size": "125g",
+  "servings_per_package": 2,
+  "ingredients": "White Bread, Cheddar Cheese, Butter, Tomato, Onion",
+  "compliance_warnings": [
+    "Trans fat is 0.48g. Consider reformulation to reduce trans fat.",
+    "High saturated fat content (8.6g per 100g). Consider adding 'High in Saturated Fat' declaration.",
+    "Added sugars should be declared separately from total sugars as per FSSAI 2020 regulations."
+  ]
+}

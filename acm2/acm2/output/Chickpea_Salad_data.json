@@ -1,0 +1,35 @@
+{
+  "product_name": "Chickpea Salad",
+  "generated_at": "2026-02-27T22:02:43.105010",
+  "nutrition_per_100g": {
+    "energy_kcal": 200.40909090909088,
+    "protein_g": 9.402272727272726,
+    "total_fat_g": 5.1068181818181815,
+    "saturated_fat_g": 0.5931818181818183,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 30.870454545454553,
+    "total_sugars_g": 6.493181818181819,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 8.843181818181817,
+    "sodium_mg": 25.772727272727273,
+    "cholesterol_mg": 0.0
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 293.93333333333334,
+    "protein_g": 13.79,
+    "total_fat_g": 7.489999999999999,
+    "saturated_fat_g": 0.8700000000000001,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 45.27666666666668,
+    "total_sugars_g": 9.523333333333335,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 12.969999999999999,
+    "sodium_mg": 37.800000000000004,
+    "cholesterol_mg": 0.0
+  },
+  "serving_size": "147g",
+  "servings_per_package": 3,
+  "ingredients": "Chickpeas, Tomato, Onion, Carrot, Spinach, Olive Oil"
+}

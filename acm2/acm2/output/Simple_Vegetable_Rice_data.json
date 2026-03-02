@@ -1,0 +1,35 @@
+{
+  "product_name": "Simple Vegetable Rice",
+  "generated_at": "2026-02-27T13:37:44.548447",
+  "nutrition_per_100g": {
+    "energy_kcal": 262.55193992490615,
+    "protein_g": 7.442928660826033,
+    "total_fat_g": 4.595244055068837,
+    "saturated_fat_g": 0.5627033792240301,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 47.95269086357947,
+    "total_sugars_g": 4.016145181476846,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 5.939173967459325,
+    "sodium_mg": 110.69461827284105,
+    "cholesterol_mg": 0.0
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 699.2633333333333,
+    "protein_g": 19.823,
+    "total_fat_g": 12.238666666666667,
+    "saturated_fat_g": 1.4986666666666668,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 127.71399999999998,
+    "total_sugars_g": 10.696333333333333,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 15.818000000000003,
+    "sodium_mg": 294.81666666666666,
+    "cholesterol_mg": 0.0
+  },
+  "serving_size": "266g",
+  "servings_per_package": 3,
+  "ingredients": "Rice Flour, Chickpeas, Tomato, Onion, Carrot, Sunflower Oil, Salt, Turmeric Powder"
+}

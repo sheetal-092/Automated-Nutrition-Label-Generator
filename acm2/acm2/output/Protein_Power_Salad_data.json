@@ -1,0 +1,35 @@
+{
+  "product_name": "Protein Power Salad",
+  "generated_at": "2026-02-27T13:37:44.324541",
+  "nutrition_per_100g": {
+    "energy_kcal": 179.13685847589423,
+    "protein_g": 8.215396578538103,
+    "total_fat_g": 4.782270606531882,
+    "saturated_fat_g": 0.5629860031104199,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 27.356143079315707,
+    "total_sugars_g": 5.999222395023328,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 7.807153965785381,
+    "sodium_mg": 206.18818040435457,
+    "cholesterol_mg": 0.0
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 383.95,
+    "protein_g": 17.608333333333334,
+    "total_fat_g": 10.25,
+    "saturated_fat_g": 1.2066666666666668,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 58.63333333333333,
+    "total_sugars_g": 12.858333333333334,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 16.733333333333334,
+    "sodium_mg": 441.93,
+    "cholesterol_mg": 0.0
+  },
+  "serving_size": "214g",
+  "servings_per_package": 3,
+  "ingredients": "Chickpeas, Tomato, Onion, Carrot, Spinach, Olive Oil, Salt"
+}

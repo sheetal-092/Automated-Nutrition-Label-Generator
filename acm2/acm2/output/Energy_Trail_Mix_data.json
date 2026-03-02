@@ -1,0 +1,38 @@
+{
+  "product_name": "Energy Trail Mix",
+  "generated_at": "2026-02-27T13:22:50.888837",
+  "nutrition_per_100g": {
+    "energy_kcal": 518.0,
+    "protein_g": 16.932258064516127,
+    "total_fat_g": 38.16451612903225,
+    "saturated_fat_g": 4.838709677419355,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 35.75806451612903,
+    "total_sugars_g": 20.483870967741936,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 6.500000000000001,
+    "sodium_mg": 8.709677419354838,
+    "cholesterol_mg": 0.0
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 160.57999999999998,
+    "protein_g": 5.249,
+    "total_fat_g": 11.831,
+    "saturated_fat_g": 1.5,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 11.084999999999999,
+    "total_sugars_g": 6.35,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 2.015,
+    "sodium_mg": 2.7,
+    "cholesterol_mg": 0.0
+  },
+  "serving_size": "31g",
+  "servings_per_package": 10,
+  "ingredients": "Almonds, Cashews, Peanuts, Honey, Jaggery",
+  "compliance_warnings": [
+    "High fat content (38.2g per 100g). Consider adding 'High in Fat' declaration."
+  ]
+}

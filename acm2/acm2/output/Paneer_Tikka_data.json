@@ -1,0 +1,39 @@
+{
+  "product_name": "Paneer Tikka",
+  "generated_at": "2026-02-27T13:36:48.585864",
+  "nutrition_per_100g": {
+    "energy_kcal": 172.8984375,
+    "protein_g": 10.757291666666667,
+    "total_fat_g": 12.378125000000002,
+    "saturated_fat_g": 7.051953125000002,
+    "trans_fat_g": 0.2604166666666667,
+    "carbohydrates_g": 3.58046875,
+    "total_sugars_g": 2.540494791666667,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 0.5821614583333334,
+    "sodium_mg": 22.989583333333336,
+    "cholesterol_mg": 35.15625
+  },
+  "fssai_compliant": false,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 221.30999999999997,
+    "protein_g": 13.769333333333334,
+    "total_fat_g": 15.844000000000001,
+    "saturated_fat_g": 9.0265,
+    "trans_fat_g": 0.3333333333333333,
+    "carbohydrates_g": 4.582999999999999,
+    "total_sugars_g": 3.251833333333334,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 0.7451666666666666,
+    "sodium_mg": 29.426666666666666,
+    "cholesterol_mg": 45.0
+  },
+  "serving_size": "128g",
+  "servings_per_package": 6,
+  "ingredients": "Paneer, Yogurt (Plain), Tomato, Onion, Olive Oil, Red Chili Powder, Turmeric Powder",
+  "compliance_warnings": [
+    "Trans fat is 0.26g. Consider reformulation to reduce trans fat.",
+    "High saturated fat content (7.1g per 100g). Consider adding 'High in Saturated Fat' declaration."
+  ]
+}

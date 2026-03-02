@@ -1,0 +1,22 @@
+# Python dependencies for Nutrition Label Generator
+
+# Core dependencies (required)
+# No external dependencies required for basic functionality
+# Python 3.8+ standard library is sufficient
+
+# Web UI
+flask>=2.2.0
+
+# Optional dependencies for LLM features
+# Uncomment and install if using LLM-based ingredient mapping
+
+# For OpenAI integration
+# openai>=1.0.0
+
+# For Anthropic Claude integration
+# anthropic>=0.18.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0

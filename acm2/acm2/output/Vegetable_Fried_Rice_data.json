@@ -1,0 +1,35 @@
+{
+  "product_name": "Vegetable Fried Rice",
+  "generated_at": "2026-02-27T22:02:43.203898",
+  "nutrition_per_100g": {
+    "energy_kcal": 286.7259786476869,
+    "protein_g": 6.895017793594306,
+    "total_fat_g": 3.6387900355871885,
+    "saturated_fat_g": 0.50355871886121,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 56.04092526690392,
+    "total_sugars_g": 3.1672597864768686,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 5.026690391459075,
+    "sodium_mg": 154.83274021352312,
+    "cholesterol_mg": 0.0
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 402.85,
+    "protein_g": 9.6875,
+    "total_fat_g": 5.1125,
+    "saturated_fat_g": 0.7075,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 78.7375,
+    "total_sugars_g": 4.45,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 7.0625,
+    "sodium_mg": 217.54,
+    "cholesterol_mg": 0.0
+  },
+  "serving_size": "140g",
+  "servings_per_package": 4,
+  "ingredients": "Rice Flour, Carrot, Chickpeas, Onion, Sunflower Oil, Salt"
+}

@@ -1,0 +1,38 @@
+{
+  "product_name": "Energy Snack Mix",
+  "generated_at": "2026-02-27T13:37:44.436280",
+  "nutrition_per_100g": {
+    "energy_kcal": 514.9298245614035,
+    "protein_g": 16.821052631578944,
+    "total_fat_g": 37.67017543859649,
+    "saturated_fat_g": 4.578947368421052,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 36.24561403508772,
+    "total_sugars_g": 21.76315789473684,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 6.780701754385966,
+    "sodium_mg": 8.421052631578947,
+    "cholesterol_mg": 0.0
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 244.59166666666667,
+    "protein_g": 7.989999999999998,
+    "total_fat_g": 17.893333333333334,
+    "saturated_fat_g": 2.175,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 17.216666666666665,
+    "total_sugars_g": 10.337499999999999,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 3.2208333333333337,
+    "sodium_mg": 4.0,
+    "cholesterol_mg": 0.0
+  },
+  "serving_size": "48g",
+  "servings_per_package": 12,
+  "ingredients": "Almonds, Cashews, Peanuts, Honey, Jaggery",
+  "compliance_warnings": [
+    "High fat content (37.7g per 100g). Consider adding 'High in Fat' declaration."
+  ]
+}

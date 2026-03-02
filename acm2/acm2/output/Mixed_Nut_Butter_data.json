@@ -1,0 +1,39 @@
+{
+  "product_name": "Mixed Nut Butter",
+  "generated_at": "2026-02-27T13:36:48.707470",
+  "nutrition_per_100g": {
+    "energy_kcal": 592.3333333333333,
+    "protein_g": 20.77777777777778,
+    "total_fat_g": 52.22222222222222,
+    "saturated_fat_g": 6.133333333333333,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 19.555555555555557,
+    "total_sugars_g": 4.462962962962963,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 8.388888888888888,
+    "sodium_mg": 9.25925925925926,
+    "cholesterol_mg": 0.0
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 199.9125,
+    "protein_g": 7.0125,
+    "total_fat_g": 17.625,
+    "saturated_fat_g": 2.07,
+    "trans_fat_g": 0.0,
+    "carbohydrates_g": 6.6000000000000005,
+    "total_sugars_g": 1.50625,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 2.83125,
+    "sodium_mg": 3.125,
+    "cholesterol_mg": 0.0
+  },
+  "serving_size": "34g",
+  "servings_per_package": 8,
+  "ingredients": "Almonds, Peanuts, Cashews, Sunflower Oil",
+  "compliance_warnings": [
+    "High fat content (52.2g per 100g). Consider adding 'High in Fat' declaration.",
+    "High saturated fat content (6.1g per 100g). Consider adding 'High in Saturated Fat' declaration."
+  ]
+}

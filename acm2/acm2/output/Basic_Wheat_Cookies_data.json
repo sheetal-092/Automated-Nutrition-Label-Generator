@@ -1,0 +1,40 @@
+{
+  "product_name": "Basic Wheat Cookies",
+  "generated_at": "2026-02-27T22:33:25.797109",
+  "nutrition_per_100g": {
+    "energy_kcal": 364.8571428571429,
+    "protein_g": 16.417857142857144,
+    "total_fat_g": 31.367857142857144,
+    "saturated_fat_g": 16.185714285714283,
+    "trans_fat_g": 0.7107142857142856,
+    "carbohydrates_g": 6.260714285714286,
+    "total_sugars_g": 1.9214285714285715,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 0.5892857142857143,
+    "sodium_mg": 16.178571428571427,
+    "cholesterol_mg": 69.46428571428572
+  },
+  "fssai_compliant": false,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 1021.6,
+    "protein_g": 45.970000000000006,
+    "total_fat_g": 87.83,
+    "saturated_fat_g": 45.31999999999999,
+    "trans_fat_g": 1.9899999999999998,
+    "carbohydrates_g": 17.53,
+    "total_sugars_g": 5.38,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 1.65,
+    "sodium_mg": 45.3,
+    "cholesterol_mg": 194.5
+  },
+  "serving_size": "280g",
+  "servings_per_package": 1,
+  "ingredients": "Paneer, Cashews, Butter",
+  "compliance_warnings": [
+    "Trans fat is 0.71g. Consider reformulation to reduce trans fat.",
+    "High fat content (31.4g per 100g). Consider adding 'High in Fat' declaration.",
+    "High saturated fat content (16.2g per 100g). Consider adding 'High in Saturated Fat' declaration."
+  ]
+}

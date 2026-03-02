@@ -1,0 +1,39 @@
+{
+  "product_name": "Ice cream",
+  "generated_at": "2026-02-27T16:28:40.609187",
+  "nutrition_per_100g": {
+    "energy_kcal": 278.3333333333333,
+    "protein_g": 1.0666666666666667,
+    "total_fat_g": 1.1,
+    "saturated_fat_g": 0.6333333333333333,
+    "trans_fat_g": 0.03333333333333333,
+    "carbohydrates_g": 68.26666666666667,
+    "total_sugars_g": 68.36666666666666,
+    "added_sugars_g": 66.66666666666667,
+    "dietary_fiber_g": 0.0,
+    "sodium_mg": 15.333333333333334,
+    "cholesterol_mg": 3.3333333333333335
+  },
+  "fssai_compliant": false,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 8350.0,
+    "protein_g": 32.0,
+    "total_fat_g": 33.0,
+    "saturated_fat_g": 19.0,
+    "trans_fat_g": 1.0,
+    "carbohydrates_g": 2048.0,
+    "total_sugars_g": 2051.0,
+    "added_sugars_g": 2000.0,
+    "dietary_fiber_g": 0.0,
+    "sodium_mg": 460.0,
+    "cholesterol_mg": 100.0
+  },
+  "serving_size": "3000g",
+  "servings_per_package": 1,
+  "ingredients": "Whole Milk, White Sugar",
+  "compliance_warnings": [
+    "High sugar content (68.4g per 100g). Consider adding 'High in Sugar' declaration.",
+    "Added sugars should be declared separately from total sugars as per FSSAI 2020 regulations."
+  ]
+}

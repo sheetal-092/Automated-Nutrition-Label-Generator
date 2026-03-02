@@ -1,0 +1,86 @@
+{
+  "recipes": [
+    {
+      "name": "Whole Grain Breakfast",
+      "description": "Complete morning meal with protein and fiber",
+      "servings": 2,
+      "ingredients": [
+        "200g Whole Wheat Flour",
+        "100ml Whole Milk",
+        "50g Almonds",
+        "30g Honey",
+        "1g Salt"
+      ]
+    },
+    {
+      "name": "Protein Power Salad",
+      "description": "High-protein vegetarian main course",
+      "servings": 3,
+      "ingredients": [
+        "250g Chickpeas",
+        "150g Tomato",
+        "100g Onion",
+        "75g Carrot",
+        "50g Spinach",
+        "15ml Olive Oil",
+        "3g Salt"
+      ]
+    },
+    {
+      "name": "Creamy Curry Delight",
+      "description": "Rich and aromatic Indian dish",
+      "servings": 4,
+      "ingredients": [
+        "300g Paneer",
+        "150g Tomato",
+        "100g Onion",
+        "30g Butter",
+        "20ml Sunflower Oil",
+        "150ml Yogurt (Plain)",
+        "5g Red Chili Powder",
+        "3g Turmeric Powder",
+        "3g Salt"
+      ]
+    },
+    {
+      "name": "Energy Snack Mix",
+      "description": "Portable healthy snacking option",
+      "servings": 12,
+      "ingredients": [
+        "200g Almonds",
+        "150g Cashews",
+        "100g Peanuts",
+        "100g Honey",
+        "20g Jaggery"
+      ]
+    },
+    {
+      "name": "Simple Vegetable Rice",
+      "description": "Easy-to-make weeknight dinner",
+      "servings": 3,
+      "ingredients": [
+        "300g Rice Flour",
+        "200g Chickpeas",
+        "100g Tomato",
+        "100g Onion",
+        "75g Carrot",
+        "20ml Sunflower Oil",
+        "2g Salt",
+        "2g Turmeric Powder"
+      ]
+    },
+    {
+      "name": "Quick Cheese Toast",
+      "description": "Perfect for breakfast or lunch",
+      "servings": 2,
+      "ingredients": [
+        "200g White Bread",
+        "100g Cheddar Cheese",
+        "40g Butter",
+        "100g Tomato",
+        "60g Onion",
+        "2g Salt"
+      ]
+    }
+  ]
+}

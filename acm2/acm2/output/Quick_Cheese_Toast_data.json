@@ -1,0 +1,40 @@
+{
+  "product_name": "Quick Cheese Toast",
+  "generated_at": "2026-02-27T13:37:44.601897",
+  "nutrition_per_100g": {
+    "energy_kcal": 251.35458167330674,
+    "protein_g": 8.92828685258964,
+    "total_fat_g": 14.382470119521912,
+    "saturated_fat_g": 8.577689243027889,
+    "trans_fat_g": 0.4820717131474103,
+    "carbohydrates_g": 21.677290836653388,
+    "total_sugars_g": 3.119521912350597,
+    "added_sugars_g": 1.195219123505976,
+    "dietary_fiber_g": 1.5179282868525898,
+    "sodium_mg": 476.0876494023904,
+    "cholesterol_mg": 38.047808764940235
+  },
+  "fssai_compliant": false,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 630.9,
+    "protein_g": 22.409999999999997,
+    "total_fat_g": 36.1,
+    "saturated_fat_g": 21.53,
+    "trans_fat_g": 1.21,
+    "carbohydrates_g": 54.410000000000004,
+    "total_sugars_g": 7.829999999999999,
+    "added_sugars_g": 3.0,
+    "dietary_fiber_g": 3.8100000000000005,
+    "sodium_mg": 1194.98,
+    "cholesterol_mg": 95.5
+  },
+  "serving_size": "251g",
+  "servings_per_package": 2,
+  "ingredients": "White Bread, Cheddar Cheese, Butter, Tomato, Onion, Salt",
+  "compliance_warnings": [
+    "Trans fat is 0.48g. Consider reformulation to reduce trans fat.",
+    "High saturated fat content (8.6g per 100g). Consider adding 'High in Saturated Fat' declaration.",
+    "Added sugars should be declared separately from total sugars as per FSSAI 2020 regulations."
+  ]
+}

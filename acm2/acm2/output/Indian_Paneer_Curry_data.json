@@ -1,0 +1,40 @@
+{
+  "product_name": "Indian Paneer Curry",
+  "generated_at": "2026-02-27T13:36:48.245227",
+  "nutrition_per_100g": {
+    "energy_kcal": 216.56750572082382,
+    "protein_g": 10.996567505720822,
+    "total_fat_g": 18.12013729977117,
+    "saturated_fat_g": 10.053775743707094,
+    "trans_fat_g": 0.437070938215103,
+    "carbohydrates_g": 3.2734553775743707,
+    "total_sugars_g": 1.8844393592677344,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 0.8672768878718536,
+    "sodium_mg": 190.82608695652175,
+    "cholesterol_mg": 47.02517162471396
+  },
+  "fssai_compliant": false,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 236.6,
+    "protein_g": 12.013749999999998,
+    "total_fat_g": 19.79625,
+    "saturated_fat_g": 10.98375,
+    "trans_fat_g": 0.47750000000000004,
+    "carbohydrates_g": 3.57625,
+    "total_sugars_g": 2.05875,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 0.9475,
+    "sodium_mg": 208.4775,
+    "cholesterol_mg": 51.375
+  },
+  "serving_size": "109g",
+  "servings_per_package": 4,
+  "ingredients": "Paneer, Tomato, Onion, Butter, Sunflower Oil, Salt, Red Chili Powder",
+  "compliance_warnings": [
+    "Trans fat is 0.44g. Consider reformulation to reduce trans fat.",
+    "High fat content (18.1g per 100g). Consider adding 'High in Fat' declaration.",
+    "High saturated fat content (10.1g per 100g). Consider adding 'High in Saturated Fat' declaration."
+  ]
+}

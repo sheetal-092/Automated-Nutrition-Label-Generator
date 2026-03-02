@@ -1,0 +1,39 @@
+{
+  "product_name": "Paneer Butter Masala",
+  "generated_at": "2026-02-28T03:53:37.033878",
+  "nutrition_per_100g": {
+    "energy_kcal": 205.39622641509433,
+    "protein_g": 9.135849056603776,
+    "total_fat_g": 16.647169811320754,
+    "saturated_fat_g": 8.550943396226414,
+    "trans_fat_g": 0.3754716981132075,
+    "carbohydrates_g": 6.166037735849057,
+    "total_sugars_g": 2.543396226415094,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 0.9716981132075473,
+    "sodium_mg": 10.716981132075471,
+    "cholesterol_mg": 36.69811320754717
+  },
+  "fssai_compliant": false,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 362.8666666666666,
+    "protein_g": 16.140000000000004,
+    "total_fat_g": 29.409999999999997,
+    "saturated_fat_g": 15.106666666666664,
+    "trans_fat_g": 0.6633333333333332,
+    "carbohydrates_g": 10.893333333333333,
+    "total_sugars_g": 4.493333333333333,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 1.7166666666666668,
+    "sodium_mg": 18.933333333333334,
+    "cholesterol_mg": 64.83333333333333
+  },
+  "serving_size": "177g",
+  "servings_per_package": 3,
+  "ingredients": "Paneer, Tomato, Onion, Cashews, Butter",
+  "compliance_warnings": [
+    "Trans fat is 0.38g. Consider reformulation to reduce trans fat.",
+    "High saturated fat content (8.6g per 100g). Consider adding 'High in Saturated Fat' declaration."
+  ]
+}

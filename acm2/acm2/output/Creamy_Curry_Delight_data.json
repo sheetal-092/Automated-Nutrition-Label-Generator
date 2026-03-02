@@ -1,0 +1,39 @@
+{
+  "product_name": "Creamy Curry Delight",
+  "generated_at": "2026-02-27T13:37:44.374940",
+  "nutrition_per_100g": {
+    "energy_kcal": 179.48226018396844,
+    "protein_g": 8.388436268068332,
+    "total_fat_g": 14.263337713534822,
+    "saturated_fat_g": 7.504467805519055,
+    "trans_fat_g": 0.3272010512483574,
+    "carbohydrates_g": 4.0181340341655725,
+    "total_sugars_g": 2.5480946123521684,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 0.7780551905387648,
+    "sodium_mg": 171.6031537450723,
+    "cholesterol_mg": 35.08541392904074
+  },
+  "fssai_compliant": false,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 341.4649999999999,
+    "protein_g": 15.959000000000001,
+    "total_fat_g": 27.136,
+    "saturated_fat_g": 14.277250000000002,
+    "trans_fat_g": 0.6224999999999999,
+    "carbohydrates_g": 7.644500000000001,
+    "total_sugars_g": 4.8477500000000004,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 1.48025,
+    "sodium_mg": 326.475,
+    "cholesterol_mg": 66.75
+  },
+  "serving_size": "190g",
+  "servings_per_package": 4,
+  "ingredients": "Paneer, Tomato, Onion, Butter, Sunflower Oil, Yogurt (Plain), Red Chili Powder, Turmeric Powder, Salt",
+  "compliance_warnings": [
+    "Trans fat is 0.33g. Consider reformulation to reduce trans fat.",
+    "High saturated fat content (7.5g per 100g). Consider adding 'High in Saturated Fat' declaration."
+  ]
+}

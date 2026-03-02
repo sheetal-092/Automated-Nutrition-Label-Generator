@@ -1,0 +1,35 @@
+{
+  "product_name": "Whole Grain Breakfast",
+  "generated_at": "2026-02-27T13:37:44.286834",
+  "nutrition_per_100g": {
+    "energy_kcal": 294.40944881889766,
+    "protein_g": 10.574803149606298,
+    "total_fat_g": 8.307086614173228,
+    "saturated_fat_g": 1.1548556430446195,
+    "trans_fat_g": 0.026246719160104987,
+    "carbohydrates_g": 48.37795275590552,
+    "total_sugars_g": 8.590551181102361,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 8.06036745406824,
+    "sodium_mg": 114.77165354330708,
+    "cholesterol_mg": 2.6246719160104988
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 560.85,
+    "protein_g": 20.145,
+    "total_fat_g": 15.825,
+    "saturated_fat_g": 2.2,
+    "trans_fat_g": 0.05,
+    "carbohydrates_g": 92.16000000000001,
+    "total_sugars_g": 16.365,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 15.354999999999999,
+    "sodium_mg": 218.64,
+    "cholesterol_mg": 5.0
+  },
+  "serving_size": "190g",
+  "servings_per_package": 2,
+  "ingredients": "Whole Wheat Flour, Whole Milk, Almonds, Honey, Salt"
+}

@@ -1,0 +1,35 @@
+{
+  "product_name": "Healthy Oatmeal Bowl",
+  "generated_at": "2026-02-27T22:02:43.022924",
+  "nutrition_per_100g": {
+    "energy_kcal": 194.31250000000003,
+    "protein_g": 7.268750000000001,
+    "total_fat_g": 8.052083333333336,
+    "saturated_fat_g": 1.4375000000000002,
+    "trans_fat_g": 0.04166666666666667,
+    "carbohydrates_g": 25.2125,
+    "total_sugars_g": 8.693750000000001,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 4.10625,
+    "sodium_mg": 33.479166666666664,
+    "cholesterol_mg": 4.166666666666667
+  },
+  "fssai_compliant": true,
+  "compliance_version": "FSSAI 2020",
+  "nutrition_per_serving": {
+    "energy_kcal": 466.35,
+    "protein_g": 17.445,
+    "total_fat_g": 19.325000000000003,
+    "saturated_fat_g": 3.45,
+    "trans_fat_g": 0.1,
+    "carbohydrates_g": 60.50999999999999,
+    "total_sugars_g": 20.865000000000002,
+    "added_sugars_g": 0.0,
+    "dietary_fiber_g": 9.855,
+    "sodium_mg": 80.35,
+    "cholesterol_mg": 10.0
+  },
+  "serving_size": "240g",
+  "servings_per_package": 2,
+  "ingredients": "Oats, Whole Milk, Almonds, Honey, Carrot"
+}
